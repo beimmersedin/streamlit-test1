@@ -18,7 +18,7 @@ plt.rcParams['axes.unicode_minus'] = False
 
 # 한글 폰트 설정
 # plt.rcParams['font.family'] = "AppleGothic"
-, 리눅스 사용자
+# , 리눅스 사용자
 
 # DataFrame 생성
 data = pd.DataFrame({
